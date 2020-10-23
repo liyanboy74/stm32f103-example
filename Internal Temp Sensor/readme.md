@@ -1,4 +1,4 @@
-# STM32f103 Internal Temperature Sensor
+# Internal Temperature Sensor
 
 Read internal temperature sensor by DMA.
 
