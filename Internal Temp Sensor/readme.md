@@ -28,4 +28,4 @@ Above is the clock section from the CubeMx. Note that I have selected the ADC cl
 
 Above is the DMA setting for the ADC. Make sure that the DMA is circular and data width is selected as ‘Word‘. This is because the CubeMx uses ADC in 12 bits resolution by default and in order to store 12 bits we need the ‘Word‘ size.
 
-From [controllerstech.com](https://controllerstech.com/stm32-adc-multiple-channels-updated-method/)
+**Reference**: [controllerstech.com](https://controllerstech.com/stm32-adc-multiple-channels-updated-method/)
