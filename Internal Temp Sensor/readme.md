@@ -1,6 +1,5 @@
 # Internal Temperature Sensor
-
-Read internal temperature sensor by DMA.
+Read internal temperature sensor by DMA
 
 ### How To
 Before proceeding further, Let’s see How we have to get the value from the internal temperature sensor of the STM32. According to the reference manual (Pg- 236), The temp is given as follows
@@ -16,7 +15,6 @@ Also note that the ADC sampling time, while reading the temperature, needs to be
 ```
 
 ### CubeMx Setup
-
 
 ![](./img/cube55-4-1024x263.png)
 
